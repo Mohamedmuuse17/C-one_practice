@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\home asigment\home asigment\bin\Debug\net8.0-windows\home asigment.exe
+C:\Users\Omistaja\source\repos\home asigment\home asigment\bin\Debug\net8.0-windows\home asigment.deps.json
+C:\Users\Omistaja\source\repos\home asigment\home asigment\bin\Debug\net8.0-windows\home asigment.runtimeconfig.json
+C:\Users\Omistaja\source\repos\home asigment\home asigment\bin\Debug\net8.0-windows\home asigment.dll
+C:\Users\Omistaja\source\repos\home asigment\home asigment\bin\Debug\net8.0-windows\home asigment.pdb
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\home_asigment.Form1.resources
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\home asigment.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\home asigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\home asigment.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\home asigment.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\home asigment.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\home asigment.dll
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\refint\home asigment.dll
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\home asigment.pdb
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\home asigment.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\home asigment\home asigment\obj\Debug\net8.0-windows\ref\home asigment.dll
