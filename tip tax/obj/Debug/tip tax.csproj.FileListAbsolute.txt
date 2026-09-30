@@ -1,0 +1,10 @@
+C:\Users\REAL\Desktop\tip tax\tip tax\bin\Debug\tip tax.exe.config
+C:\Users\REAL\Desktop\tip tax\tip tax\bin\Debug\tip tax.exe
+C:\Users\REAL\Desktop\tip tax\tip tax\bin\Debug\tip tax.pdb
+C:\Users\REAL\Desktop\tip tax\tip tax\obj\Debug\tip tax.csproj.AssemblyReference.cache
+C:\Users\REAL\Desktop\tip tax\tip tax\obj\Debug\tip_tax.Form1.resources
+C:\Users\REAL\Desktop\tip tax\tip tax\obj\Debug\tip_tax.Properties.Resources.resources
+C:\Users\REAL\Desktop\tip tax\tip tax\obj\Debug\tip tax.csproj.GenerateResource.cache
+C:\Users\REAL\Desktop\tip tax\tip tax\obj\Debug\tip tax.csproj.CoreCompileInputs.cache
+C:\Users\REAL\Desktop\tip tax\tip tax\obj\Debug\tip tax.exe
+C:\Users\REAL\Desktop\tip tax\tip tax\obj\Debug\tip tax.pdb
