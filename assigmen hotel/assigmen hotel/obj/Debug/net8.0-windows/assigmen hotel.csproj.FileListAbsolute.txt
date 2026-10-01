@@ -1,6 +1,0 @@
-C:\Users\Omistaja\source\repos\assigmen hotel\assigmen hotel\obj\Debug\net8.0-windows\assigmen_hotel.Form1.resources
-C:\Users\Omistaja\source\repos\assigmen hotel\assigmen hotel\obj\Debug\net8.0-windows\assigmen hotel.csproj.GenerateResource.cache
-C:\Users\Omistaja\source\repos\assigmen hotel\assigmen hotel\obj\Debug\net8.0-windows\assigmen hotel.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Omistaja\source\repos\assigmen hotel\assigmen hotel\obj\Debug\net8.0-windows\assigmen hotel.AssemblyInfoInputs.cache
-C:\Users\Omistaja\source\repos\assigmen hotel\assigmen hotel\obj\Debug\net8.0-windows\assigmen hotel.AssemblyInfo.cs
-C:\Users\Omistaja\source\repos\assigmen hotel\assigmen hotel\obj\Debug\net8.0-windows\assigmen hotel.csproj.CoreCompileInputs.cache
