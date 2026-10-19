@@ -1,0 +1,6 @@
+C:\Users\Omistaja\source\repos\vehicle rental managment system\vehicle rental managment system\obj\Debug\net8.0-windows\vehicle_rental_managment_system.Form1.resources
+C:\Users\Omistaja\source\repos\vehicle rental managment system\vehicle rental managment system\obj\Debug\net8.0-windows\vehicle rental managment system.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\vehicle rental managment system\vehicle rental managment system\obj\Debug\net8.0-windows\vehicle rental managment system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\vehicle rental managment system\vehicle rental managment system\obj\Debug\net8.0-windows\vehicle rental managment system.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\vehicle rental managment system\vehicle rental managment system\obj\Debug\net8.0-windows\vehicle rental managment system.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\vehicle rental managment system\vehicle rental managment system\obj\Debug\net8.0-windows\vehicle rental managment system.csproj.CoreCompileInputs.cache

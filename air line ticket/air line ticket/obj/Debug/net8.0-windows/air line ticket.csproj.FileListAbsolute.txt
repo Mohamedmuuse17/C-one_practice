@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\bin\Debug\net8.0-windows\air line ticket.exe
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\bin\Debug\net8.0-windows\air line ticket.deps.json
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\bin\Debug\net8.0-windows\air line ticket.runtimeconfig.json
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\bin\Debug\net8.0-windows\air line ticket.dll
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\bin\Debug\net8.0-windows\air line ticket.pdb
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\air_line_ticket.Form1.resources
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\air line ticket.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\air line ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\air line ticket.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\air line ticket.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\air line ticket.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\air line ticket.dll
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\refint\air line ticket.dll
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\air line ticket.pdb
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\air line ticket.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\air line ticket\air line ticket\obj\Debug\net8.0-windows\ref\air line ticket.dll

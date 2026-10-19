@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\bin\Debug\net8.0-windows\hotel room booking.exe
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\bin\Debug\net8.0-windows\hotel room booking.deps.json
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\bin\Debug\net8.0-windows\hotel room booking.runtimeconfig.json
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\bin\Debug\net8.0-windows\hotel room booking.dll
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\bin\Debug\net8.0-windows\hotel room booking.pdb
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\hotel_room_booking.Form1.resources
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\hotel room booking.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\hotel room booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\hotel room booking.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\hotel room booking.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\hotel room booking.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\hotel room booking.dll
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\refint\hotel room booking.dll
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\hotel room booking.pdb
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\hotel room booking.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\hotel room booking\hotel room booking\obj\Debug\net8.0-windows\ref\hotel room booking.dll
